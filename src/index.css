@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding-top: 30px;
+  font-family: sans-serif;
+}
+
+.media-profile-img {
+  width: 36px;
+  height: 36px;
+}
